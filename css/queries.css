@@ -1,0 +1,24 @@
+@media (max-width: 375px) {
+  main {
+    width: 327px;
+    height: 567px;
+  }
+  .plan {
+    width: 279px;
+    height: 81px;
+  }
+  .prices {
+    margin-left: -20px;
+  }
+  .payment {
+    width: 279px;
+    height: 50px;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    align-items: center;
+    padding: 1.5rem;
+  }
+}
